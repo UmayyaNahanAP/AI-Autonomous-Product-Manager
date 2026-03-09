@@ -1,0 +1,8 @@
+streamlit
+pandas
+textblob
+crewai
+groq
+python-dotenv
+matplotlib
+reportlab

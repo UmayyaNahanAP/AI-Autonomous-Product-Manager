@@ -1,0 +1,41 @@
++---------------------+
+                |  User Feedback CSV  |
+                +----------+----------+
+                           |
+                           v
+                +---------------------+
+                | Feedback Analyzer   |
+                | Agent               |
+                | - Sentiment         |
+                | - Issue Detection   |
+                +----------+----------+
+                           |
+                           v
+                +---------------------+
+                | Feature Planner     |
+                | Agent               |
+                | - Generate features |
+                | - Group requests    |
+                +----------+----------+
+                           |
+                           v
+                +---------------------+
+                | Impact Estimator    |
+                | Agent               |
+                | - Business value    |
+                | - Adoption score    |
+                +----------+----------+
+                           |
+                           v
+                +---------------------+
+                | Roadmap Planner     |
+                | Agent               |
+                | - Feature priority  |
+                | - Timeline planning |
+                +----------+----------+
+                           |
+                           v
+                +---------------------+
+                | Product Strategy    |
+                | Report + Dashboard  |
+                +---------------------+
